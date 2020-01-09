@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+F:\winpoint\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3050254463.index
+684854640.index
+4260066436.index
+848529032.index
+3074847453.index
+1791175696.index
